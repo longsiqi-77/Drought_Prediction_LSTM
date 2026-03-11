@@ -1,0 +1,39 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            51c9ejgrijfh6z62f5hl8hghn62e4pdo:
+                email: 1546531560@qq.com
+                executable: /opt/anaconda3/bin/python
+                host: longsiqideMacBook-Air.local
+                os: macOS-15.0.1-arm64-arm-64bit
+                program: -m src.train
+                python: CPython 3.12.7
+                root: /Users/longsiqi/Desktop/Drought_Prediction_LSTM
+                startedAt: "2025-12-09T07:35:34.731852Z"
+                writerId: 51c9ejgrijfh6z62f5hl8hghn62e4pdo
+        m: []
+        python_version: 3.12.7
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 16
+            "4": 3.12.7
+            "5": 0.23.1
+            "12": 0.23.1
+            "13": darwin-arm64
+batch_size:
+    value: 32
+epochs:
+    value: 100
+learning_rate:
+    value: 0.001
+seq_length:
+    value: 30

@@ -1,0 +1,32 @@
+2025-12-09 11:35:32,090 INFO    MainThread:30712 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-09 11:35:32,090 INFO    MainThread:30712 [wandb_setup.py:_flush():80] Configure stats pid to 30712
+2025-12-09 11:35:32,090 INFO    MainThread:30712 [wandb_setup.py:_flush():80] Loading settings from C:\Users\15465\.config\wandb\settings
+2025-12-09 11:35:32,090 INFO    MainThread:30712 [wandb_setup.py:_flush():80] Loading settings from d:\Grade3Semester1\PnAofBigdata\期末项目\Drought_Prediction_LSTM\notebooks\wandb\settings
+2025-12-09 11:35:32,090 INFO    MainThread:30712 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-09 11:35:32,090 INFO    MainThread:30712 [wandb_init.py:setup_run_log_directory():714] Logging user logs to d:\Grade3Semester1\PnAofBigdata\期末项目\Drought_Prediction_LSTM\notebooks\wandb\run-20251209_113532-8nporfxq\logs\debug.log
+2025-12-09 11:35:32,095 INFO    MainThread:30712 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to d:\Grade3Semester1\PnAofBigdata\期末项目\Drought_Prediction_LSTM\notebooks\wandb\run-20251209_113532-8nporfxq\logs\debug-internal.log
+2025-12-09 11:35:32,095 INFO    MainThread:30712 [wandb_init.py:monkeypatch_ipython():633] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001BF9868B9E0>
+2025-12-09 11:35:32,095 INFO    MainThread:30712 [wandb_init.py:init():841] calling init triggers
+2025-12-09 11:35:32,095 INFO    MainThread:30712 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 100, 'batch_size': 32, 'seq_length': 30, '_wandb': {}}
+2025-12-09 11:35:32,095 INFO    MainThread:30712 [wandb_init.py:init():889] starting backend
+2025-12-09 11:35:32,720 INFO    MainThread:30712 [wandb_init.py:init():892] sending inform_init request
+2025-12-09 11:35:32,763 INFO    MainThread:30712 [wandb_init.py:init():900] backend started and connected
+2025-12-09 11:35:32,781 INFO    MainThread:30712 [wandb_run.py:_label_probe_notebook():1334] probe notebook
+2025-12-09 11:35:32,782 INFO    MainThread:30712 [wandb_run.py:_label_probe_notebook():1344] Unable to probe notebook: 'gbk' codec can't decode byte 0x8c in position 439: illegal multibyte sequence
+2025-12-09 11:35:32,782 INFO    MainThread:30712 [wandb_init.py:init():970] updated telemetry
+2025-12-09 11:35:32,951 INFO    MainThread:30712 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-09 11:35:34,219 INFO    MainThread:30712 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-09 11:35:34,449 INFO    MainThread:30712 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-09 11:35:34,449 INFO    MainThread:30712 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-09 11:35:34,449 INFO    MainThread:30712 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-09 11:35:34,449 INFO    MainThread:30712 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-09 11:35:34,451 INFO    MainThread:30712 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-09 11:36:42,090 INFO    MainThread:30712 [wandb_run.py:_finish():2287] finishing run 1546531560-/drought-prediction-lstm/8nporfxq
+2025-12-09 11:36:43,170 INFO    MainThread:30712 [jupyter.py:save_history():435] not saving jupyter history
+2025-12-09 11:36:43,170 INFO    MainThread:30712 [jupyter.py:save_ipynb():359] not saving jupyter notebook
+2025-12-09 11:36:43,170 INFO    MainThread:30712 [wandb_init.py:_jupyter_teardown():618] cleaning up jupyter logic
+2025-12-09 11:36:43,170 INFO    MainThread:30712 [wandb_run.py:_atexit_cleanup():2486] got exitcode: 0
+2025-12-09 11:36:43,171 INFO    MainThread:30712 [wandb_run.py:_restore():2468] restore
+2025-12-09 11:36:43,171 INFO    MainThread:30712 [wandb_run.py:_restore():2474] restore done
+2025-12-09 11:36:45,151 INFO    MainThread:30712 [wandb_run.py:_footer_sync_info():3862] logging synced files

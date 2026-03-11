@@ -1,0 +1,36 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.12.4",
+  "startedAt":  "2025-12-09T03:35:32.086017Z",
+  "program":  "d:\\Grade3Semester1\\PnAofBigdata\\期末项目\\Drought_Prediction_LSTM\\notebooks\\02_Training_Demo.ipynb",
+  "codePath":  "d:\\Grade3Semester1\\PnAofBigdata\\期末项目\\Drought_Prediction_LSTM\\notebooks\\02_Training_Demo.ipynb",
+  "codePathLocal":  "02_Training_Demo.ipynb",
+  "email":  "1546531560@qq.com",
+  "root":  "d:\\Grade3Semester1\\PnAofBigdata\\期末项目\\Drought_Prediction_LSTM\\notebooks",
+  "host":  "ki",
+  "executable":  "d:\\Python3.12\\python.exe",
+  "cpu_count":  10,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "157286395904",
+      "used":  "112208089088"
+    }
+  },
+  "memory":  {
+    "total":  "16898727936"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "memoryTotal":  "8585740288",
+      "cudaCores":  3072,
+      "architecture":  "Ada",
+      "uuid":  "GPU-6391a43a-cb7d-2b21-53e1-bb56a13c53df"
+    }
+  ],
+  "cudaVersion":  "13.0",
+  "writerId":  "dugnrqxbh1akppmm3gni0c5k78m1mxve"
+}

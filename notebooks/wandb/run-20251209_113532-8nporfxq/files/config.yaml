@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.23.1
+        e:
+            dugnrqxbh1akppmm3gni0c5k78m1mxve:
+                codePath: d:\Grade3Semester1\PnAofBigdata\期末项目\Drought_Prediction_LSTM\notebooks\02_Training_Demo.ipynb
+                codePathLocal: 02_Training_Demo.ipynb
+                cpu_count: 10
+                cpu_count_logical: 16
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "157286395904"
+                        used: "112208089088"
+                email: 1546531560@qq.com
+                executable: d:\Python3.12\python.exe
+                gpu: NVIDIA GeForce RTX 4060 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 3072
+                      memoryTotal: "8585740288"
+                      name: NVIDIA GeForce RTX 4060 Laptop GPU
+                      uuid: GPU-6391a43a-cb7d-2b21-53e1-bb56a13c53df
+                host: ki
+                memory:
+                    total: "16898727936"
+                os: Windows-11-10.0.26200-SP0
+                program: d:\Grade3Semester1\PnAofBigdata\期末项目\Drought_Prediction_LSTM\notebooks\02_Training_Demo.ipynb
+                python: CPython 3.12.4
+                root: d:\Grade3Semester1\PnAofBigdata\期末项目\Drought_Prediction_LSTM\notebooks
+                startedAt: "2025-12-09T03:35:32.086017Z"
+                writerId: dugnrqxbh1akppmm3gni0c5k78m1mxve
+        m: []
+        python_version: 3.12.4
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 105
+            "2":
+                - 1
+                - 5
+                - 53
+                - 105
+            "3":
+                - 2
+                - 16
+            "4": 3.12.4
+            "5": 0.23.1
+            "8":
+                - 1
+                - 3
+            "12": 0.23.1
+            "13": windows-amd64
+batch_size:
+    value: 32
+epochs:
+    value: 100
+learning_rate:
+    value: 0.001
+seq_length:
+    value: 30
